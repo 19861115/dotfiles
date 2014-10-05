@@ -1,0 +1,11 @@
+VimClojure
+neobundle.vim
+neocomplcache
+neosnippet
+switch
+syntastic
+unite.vim
+vim-endwise
+vim-slime
+vimproc
+vimshell
